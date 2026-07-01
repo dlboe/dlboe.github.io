@@ -8,7 +8,7 @@ profile:
   align: left
   image: prof_pic.jpg
   image_circular: false
-  more_info: >
+  address: >
     <div class="contact-icons" style="margin-top: 0.5rem; font-size: 1.1rem;">
       <a href="mailto:dlboebinger@gmail.com" title="email"><i class="fas fa-envelope"></i></a>
       <a href="https://orcid.org/0000-0001-6379-4360" title="ORCID" target="_blank"><i class="ai ai-orcid"></i></a>
