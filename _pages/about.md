@@ -7,7 +7,7 @@ subtitle: Postdoctoral Fellow · University of Rochester
 profile:
   align: left
   image: prof_pic.jpg
-  image_circular: true
+  image_circular: false
   more_info:
 
 news: true
