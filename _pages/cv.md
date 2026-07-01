@@ -6,7 +6,7 @@ nav: true
 nav_order: 4
 ---
 
-<a href="/assets/pdf/boebinger_cv.pdf" target="_blank">Download CV (PDF)</a>
+<a href="/assets/pdf/boebinger_cv.pdf" target="_blank">Download (PDF)</a>
 
 <div class="cv-embed">
   <iframe src="/assets/pdf/boebinger_cv.pdf" 
