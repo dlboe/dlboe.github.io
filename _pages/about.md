@@ -2,10 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Fellow · <a href="https://www.bcs.rochester.edu">Brain & Cognitive Sciences</a> · University of Rochester
+subtitle: Postdoctoral Fellow · University of Rochester
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: true
   more_info:
